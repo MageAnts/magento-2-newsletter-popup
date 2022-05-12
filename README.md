@@ -14,7 +14,7 @@
 						<li>Admins are allowed to set up the displayed pop-up as per their wish.</li>
 					</ul>
 				</div>
-        <p>Magento 2 module is an ideal marketing tool that provides effective results from email marketing.</p>
+        <p>The Magento 2 Newsletter Popup plugin is the best solution to increase visitors' subscriptions to the stores' newsletter. It also helps in boosting store sales.</p>
 				<div class="more-features">
 					<h3>Demo</h3>
 					<ul>
